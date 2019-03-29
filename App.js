@@ -19,7 +19,19 @@ export default class App extends Component {
       peca2:0,
     };
 }
-
+  setField(id){
+    if(id == 0){
+      this.veri();
+    }else{
+      this.reset();
+    }
+  }
+  reset(){
+    this.setState({
+      pontosPlayer: 0,
+      pontosAndroid: 0
+    });
+  }
   veri(){
     if ( this.state.estadoP == 1) {
       this.setState({
@@ -89,12 +101,12 @@ export default class App extends Component {
 
 
     this.selectImage(val,aleatorio);
-    this.swhoWinner(val,aleatorio);
+    this.whoWinner(val,aleatorio);
   }
   render() {
     return (
       <ScrollView style={styles.main}> 
-        <TopBar   onPress={ ()=> this.veri() }/>
+        <TopBar   onPress={ (id)=> this.setField(id) }/>
 
         <View style={ { margin: 4 } }>
 

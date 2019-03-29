@@ -2,24 +2,24 @@ import React from 'react';
 import { StyleSheet, View, Button, ScrollView, Alert, Text, TouchableOpacity, Image } from 'react-native';
 
 const TopBar = (props) => {
+    
+    return (
+            <View style={styles.container}>
 
-        return (
-             <View style={styles.container}>
+            <TouchableOpacity onPress={ () => props.onPress(0) } >
+                        <Text style={styles.game}>GAME </Text>
+            </TouchableOpacity>
+            
 
-              <TouchableOpacity onPress={ () => props.onPress() } >
-                          <Text style={styles.game}>GAME </Text>
-             </TouchableOpacity>
-             
+            <View style={{width: 260,height:44}}></View>
 
-             <View style={{width: 260,height:44}}></View>
-
-             <View style={{alignItems: "center"}}>
-                    <TouchableOpacity onPress={() => alert("Resetou o o game com sucesso!")}>
-                        <Image source={require('../../img/reset.png')} />
-                    </TouchableOpacity>
-             </View>
+            <View style={{alignItems: "center"}}>
+                <TouchableOpacity onPress={()=>props.onPress(1)}>
+                    <Image source={require('../../img/reset.png')} />
+                </TouchableOpacity>
             </View>
-        );
+        </View>
+    );
 }
 
 const styles = StyleSheet.create({
