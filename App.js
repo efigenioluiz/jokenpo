@@ -16,6 +16,7 @@ export default class App extends Component {
       pontosPlayer:0,
       pontosAndroid:0, 
       peca:0,
+      peca2:0,
     };
 }
 
@@ -30,19 +31,65 @@ export default class App extends Component {
         });                  
     }
   }
-  addpt(){
-    this.setState({
-      pontosPlayer: this.state.pontosPlayer+1,
-    });
-  }
+  whoWinner(player,android){
+    if((player == 1) && ( android == 4 || android == 3 ) ){
+      this.addpt(0);
+    }else if((player == 1) && ( android == 5 || android == 2)){
+      this.addpt(1);
+    }else if((player == 2) && ( android == 3 || android == 1)){
+      this.addpt(0);
+    }
+    else if((player == 2) && ( android == 4 || android == 5)){
+      this.addpt(1);
+    }
+    else if((player == 3) && ( android == 4 || android == 5)){
+      this.addpt(0);
+    }
+    else if((player == 3) && ( android == 1 || android == 2)){
+      this.addpt(1);
+    }
+    else if((player == 4) && ( android == 2 || android == 5)){
+      this.addpt(0);
+    }
+    else if((player == 4) && ( android == 1 || android == 3)){
+      this.addpt(1);
+    }
 
-  selectImage(val ){
+    else if((player == 5) && ( android == 1 || android == 2)){
+      this.addpt(0);
+    }
+    else if((player == 5) && ( android == 3 || android == 4)){
+      this.addpt(1);
+    }
+
+  }
+  addpt(id){
+    if(id == 0){
+      this.setState({
+        pontosPlayer: this.state.pontosPlayer+1,
+      });
+    }else if(id == 1){
+      this.setState({
+        pontosAndroid: this.state.pontosAndroid+1,
+      }); 
+    }
+    
+  }
+  selectImage(val,val2 ){
     this.setState({
       peca: val,
+      peca2: val2,
     });
   }
-  gera() {
-    return Math.floor((1+Math.random() * 5))
+  seed() {
+    return Math.floor((1+Math.random() * 5));
+  }
+  runGame(val){
+    aleatorio= this.seed();
+
+
+    this.selectImage(val,aleatorio);
+    this.swhoWinner(val,aleatorio);
   }
   render() {
     return (
@@ -50,16 +97,16 @@ export default class App extends Component {
         <TopBar   onPress={ ()=> this.veri() }/>
 
         <View style={ { margin: 4 } }>
-                    
-        <TouchableOpacity onPress={ () => this.veri() }>
-          <Header imgp={this.state.estadoP} />
-        </TouchableOpacity>
+
+          <TouchableOpacity onPress={ () => this.veri() }>
+            <Header imgp={this.state.estadoP} />
+          </TouchableOpacity>
 
         </View>      
         
-        <IconsBut  onPress={ (val) => this.selectImage(val) }  />
+        <IconsBut  onPress={(val)=> this.runGame(val) }  />
         
-        <ArenaBattle addpt={()=>this.addpt()} ptp={this.state.pontosPlayer}  pa={this.state.pontosAndroid}/>
+        <ArenaBattle pca={this.state.peca} pca2={this.state.peca2} ptp={this.state.pontosPlayer}  pa={this.state.pontosAndroid}/>
       </ScrollView> 
     ); 
   }

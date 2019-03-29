@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.2] /home/luiz/.gradle/caches/transforms-1/files-1.1/react-native-0.59.2.aar/dcd49cea779b86bb5225c4c881560d3e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68f6050e7d2fa3827313866cec11ba00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7f430a2535a8d3f023d66bb4604d811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33d1668522177d4783fb3cc497f2dd16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9b9881e4a700a9fdff5ea863a964219b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cb7b6fc4d4a69c3c9b49137a37108a30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5726790a12e7e26f1c4228f5fdca5567/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/28249e60d5902eb1a786ef40c28accc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1da5795f4ec6a9e8549e6335771ed027/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5234ebb812105c8f1c9f42fbe8a193a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bd1091fffc20e7b26c03286c8d9aef81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ad8c51b95af0f93eedd84f85f2252ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a6185828bd72ee84814db9eee6f240d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e001c2491e0b8384ea7cad9dcdb5fbba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d7d5ea9c9f98d25b5de75ff6445d2e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d5ce6db7f7ffee0f4694cd5b3b82dd5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/323c8fb40c201339463399f1204d159f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e73df2e9ae49ec0ddd9ffdb0936bd180/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9874710f83215db9fcb43eda613031cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/02df0e010b710fd7f1b49a10272cab68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2da74d53c8a4eda0e08734dff8953c07/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36ac91c26d54d062da5be24e1f949704/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/06ec152f5b7ba5ef5cc95f2a7c387c8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a9708c7bdf9aa7c20d6de8f5c50bc3ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c1821c5117589d3877f94ff73e434c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a65a1bd0e1a009b9698b81d76774a0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cfd71da90b6e4826272c33d40b94041/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0a6cf1f684815a85172cb3f23ad3332/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dad7f056eccfaa32af7e45f157ee8913/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/71aa0da4ee7abb21367035146df46ebd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dcb457f927381534dc244452059f7859/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/e1580c99e0184e09cccd813ca2721d67/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/751fe48f39cbe65e57a8a6ed457950a9/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.2] /home/luiz/.gradle/caches/transforms-1/files-1.1/react-native-0.59.2.aar/dcd49cea779b86bb5225c4c881560d3e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.2] /home/luiz/.gradle/caches/transforms-1/files-1.1/react-native-0.59.2.aar/dcd49cea779b86bb5225c4c881560d3e/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d5ce6db7f7ffee0f4694cd5b3b82dd5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d5ce6db7f7ffee0f4694cd5b3b82dd5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/e1580c99e0184e09cccd813ca2721d67/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/e1580c99e0184e09cccd813ca2721d67/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.jokenpogeek.MainActivity
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.2] /home/luiz/.gradle/caches/transforms-1/files-1.1/react-native-0.59.2.aar/dcd49cea779b86bb5225c4c881560d3e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.2] /home/luiz/.gradle/caches/transforms-1/files-1.1/react-native-0.59.2.aar/dcd49cea779b86bb5225c4c881560d3e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68f6050e7d2fa3827313866cec11ba00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68f6050e7d2fa3827313866cec11ba00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7f430a2535a8d3f023d66bb4604d811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a7f430a2535a8d3f023d66bb4604d811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33d1668522177d4783fb3cc497f2dd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/33d1668522177d4783fb3cc497f2dd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9b9881e4a700a9fdff5ea863a964219b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9b9881e4a700a9fdff5ea863a964219b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cb7b6fc4d4a69c3c9b49137a37108a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/cb7b6fc4d4a69c3c9b49137a37108a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5726790a12e7e26f1c4228f5fdca5567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5726790a12e7e26f1c4228f5fdca5567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/28249e60d5902eb1a786ef40c28accc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/28249e60d5902eb1a786ef40c28accc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1da5795f4ec6a9e8549e6335771ed027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1da5795f4ec6a9e8549e6335771ed027/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5234ebb812105c8f1c9f42fbe8a193a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d5234ebb812105c8f1c9f42fbe8a193a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bd1091fffc20e7b26c03286c8d9aef81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bd1091fffc20e7b26c03286c8d9aef81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ad8c51b95af0f93eedd84f85f2252ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2ad8c51b95af0f93eedd84f85f2252ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a6185828bd72ee84814db9eee6f240d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/7a6185828bd72ee84814db9eee6f240d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e001c2491e0b8384ea7cad9dcdb5fbba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e001c2491e0b8384ea7cad9dcdb5fbba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d7d5ea9c9f98d25b5de75ff6445d2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8d7d5ea9c9f98d25b5de75ff6445d2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1dd2e4ead708b15e499a1afc2e159a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d5ce6db7f7ffee0f4694cd5b3b82dd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d5ce6db7f7ffee0f4694cd5b3b82dd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/323c8fb40c201339463399f1204d159f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/323c8fb40c201339463399f1204d159f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e73df2e9ae49ec0ddd9ffdb0936bd180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e73df2e9ae49ec0ddd9ffdb0936bd180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9874710f83215db9fcb43eda613031cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9874710f83215db9fcb43eda613031cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/02df0e010b710fd7f1b49a10272cab68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/02df0e010b710fd7f1b49a10272cab68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2da74d53c8a4eda0e08734dff8953c07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2da74d53c8a4eda0e08734dff8953c07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36ac91c26d54d062da5be24e1f949704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36ac91c26d54d062da5be24e1f949704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/06ec152f5b7ba5ef5cc95f2a7c387c8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/06ec152f5b7ba5ef5cc95f2a7c387c8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a9708c7bdf9aa7c20d6de8f5c50bc3ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a9708c7bdf9aa7c20d6de8f5c50bc3ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c1821c5117589d3877f94ff73e434c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/luiz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c1821c5117589d3877f94ff73e434c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a65a1bd0e1a009b9698b81d76774a0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a65a1bd0e1a009b9698b81d76774a0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cfd71da90b6e4826272c33d40b94041/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2cfd71da90b6e4826272c33d40b94041/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0a6cf1f684815a85172cb3f23ad3332/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0a6cf1f684815a85172cb3f23ad3332/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dad7f056eccfaa32af7e45f157ee8913/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/dad7f056eccfaa32af7e45f157ee8913/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/71aa0da4ee7abb21367035146df46ebd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/71aa0da4ee7abb21367035146df46ebd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dcb457f927381534dc244452059f7859/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/dcb457f927381534dc244452059f7859/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/e1580c99e0184e09cccd813ca2721d67/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/e1580c99e0184e09cccd813ca2721d67/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/751fe48f39cbe65e57a8a6ed457950a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/luiz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/751fe48f39cbe65e57a8a6ed457950a9/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/luiz/react-native/jokenpogeek/android/app/src/debug/AndroidManifest.xml:5:22-75
